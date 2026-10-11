@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-antigravity
+google-genai
+pydantic
+duckduckgo-search
+ddgs
+crawl4ai
+python-dotenv
